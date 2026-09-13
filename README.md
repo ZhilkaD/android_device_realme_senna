@@ -133,6 +133,7 @@ fastboot reboot
 3. `fastboot erase metadata && fastboot erase userdata && fastboot reboot`
 
 ---
+Google Drive (Fastboot Archive): [Download Folder](https://drive.google.com/drive/folders/1HGzpCLestG-DwoBh45hUXiC8NQSX6XZ5)
 
 ## Credits & Sources
 
